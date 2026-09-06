@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jonghyun0000.lotto645",
+      "sha256_cert_fingerprints": [
+        "79:D1:C4:3A:C9:30:00:42:E0:51:D7:D6:75:7D:31:49:32:D2:CC:2D:56:4B:D9:1D:9A:90:B1:2C:2B:82:7F:73"
+      ]
+    }
+  }
+]
